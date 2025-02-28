@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-print("Hello, Coin Management!")
-=======
 import getpass
 import time
 import pyfiglet
@@ -259,4 +256,3 @@ def main_menu():
 
 if __name__ == "__main__":
     main_menu()
->>>>>>> 63d86016e92cd1267dceba4c189f67c590b3f70b
